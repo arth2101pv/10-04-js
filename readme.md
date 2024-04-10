@@ -2,12 +2,12 @@
 Este projeto tem como objetivo desenvolver um gerador de QR Code simples
 
 ## Funcionalidades
- - Geração de QR Code a partir de uma URL ou texto inserido pelo usuário
- - Pré-visuaização do QR Code gerado
- - Botão para download do QR Code em uma imagem PNG
- - Design clean e responsivo
+- Geração de QR Code a partir de uma URL ou texto inserido pelo usuário
+- Pré-visuaização do QR Code gerado
+- Botão para download do QR Code em uma imagem PNG
+- Design clean e responsivo
 
- ## Como usar
+## Como usar
 1. Faça o clone deste repositório para o seu ambiente local.
 2. Abra o arquivo ´index.html` no seu navegador preferido.
 3. Insira o URL ou o texto desejado para gerar o QR Code.
